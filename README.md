@@ -1,6 +1,6 @@
 # DotenvExport
 
-export
+export .env file into your shell environment
 
 ## Installation
 
